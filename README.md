@@ -1,7 +1,7 @@
 # JavascriptMovido
 **_Más ejercicios de JavaScript..._**
 
-**_Enunciado:_**
+**_Enunciados:_**
 
 1. Escribe ¡Hola mundo! por pantalla.
 
