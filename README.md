@@ -8,4 +8,4 @@
 2. **_Crea una función que se cargue al inicio 
 y que muestre la suma de dos números._**
 
-3. _Muestra un mensaje por la consola._
+3. **_Muestra un mensaje por la consola._**
