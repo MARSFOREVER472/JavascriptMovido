@@ -5,7 +5,7 @@
 
 1. **_Escribe ¡Hola mundo! por pantalla._**
 
-2. _Crea una función que se cargue al inicio 
-y que muestre la suma de dos números._
+2. **_Crea una función que se cargue al inicio 
+y que muestre la suma de dos números._**
 
 3. Muestra un mensaje por la consola.
