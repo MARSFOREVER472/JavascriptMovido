@@ -3,7 +3,7 @@
 
 Enunciado:
 
-1. Escribe ¡Hola mundo! por pantalla!
+1. Escribe ¡Hola mundo! por pantalla.
 
 2. Crea una función que se cargue al inicio 
 y que muestre la suma de dos números.
