@@ -1,7 +1,7 @@
 # JavascriptMovido
 ## **_Más ejercicios de JavaScript..._**
 
-### Veamos cómo JavaScript maneja los diferentes tipos de datos en programación mediante líneas de código en cada archivo .js:
+### _Veamos cómo JavaScript maneja los diferentes tipos de datos en programación mediante líneas de código en cada archivo .js:_
 
 **_Enunciados:_**
 
