@@ -5,7 +5,7 @@
 
 **_Enunciados:_**
 
-1. **_Escribe ¡Hola mundo! por pantalla._**
+1. **_Escribe ¡Hola mundo! por consola._**
 
 2. **_Crea una función que se cargue al inicio 
 y que muestre la suma de dos números._**
