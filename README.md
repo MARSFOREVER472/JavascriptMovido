@@ -1,6 +1,8 @@
 # JavascriptMovido
 ## **_Más ejercicios de JavaScript..._**
 
+Veamos como JavaScript maneja los diferentes tipos de datos en programacion
+
 **_Enunciados:_**
 
 1. **_Escribe ¡Hola mundo! por pantalla._**
